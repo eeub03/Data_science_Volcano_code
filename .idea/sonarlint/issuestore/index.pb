@@ -14,8 +14,6 @@ N
 ..idea/inspectionProfiles/profiles_settings.xml,1\e\1e9075f5bf079c01ef2c910709e91a497d262080
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 F
 data/train/1257785.csv,3\2\320cbdfbdde21a4313823424ecffb600d67dfaf7
 >
@@ -28,3 +26,9 @@ I
 data/train/1087653736.csv,f\6\f6162937dfb37a8a5f6c37a7f6f7e4b1d77822f7
 I
 data/train/1086942147.csv,0\f\0f0dde7dbea3df993ee47a0b518af45e4d4e3c5c
+J
+data/sample_submission.csv,3\a\3a3cc40a93845122d1198294fdfb946c4ef6847a
+8
+data.csv,1\a\1aa5784d52481911bc44df0e8b6a8fd581b0518c
+8
+accuracy,2\6\26de05a44d1e5fe8d199a0b207cf89f9e390f7dd

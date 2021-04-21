@@ -131,3 +131,5 @@ dmypy.json
 # Main repo files
 
 data/
+
+*.ipynb

@@ -1,7 +1,5 @@
 
-{python:S117("XRename this local variable "X_Train" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÀ—Şşÿÿÿÿ8˜¸¾€/
-{python:S117("XRename this local variable "Y_Train" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÀ—Şşÿÿÿÿ8˜¸¾€/
-kpython:S117'"MRename this parameter "Y" to match the regular expression ^[_a-z][a-z0-9_]*$.(„¥ÆÛ8˜¸¾€/
-zpython:S117("WRename this local variable "Y_Test" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÀ—Şşÿÿÿÿ8˜¸¾€/
-kpython:S117'"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(„¥ÆÛ8œ˜¸¾€/
-zpython:S117("WRename this local variable "X_Test" to match the regular expression ^[_a-z][a-z0-9_]*$.(âÀ—Şşÿÿÿÿ8˜¸¾€/
+[python:S5754v"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8Öñ”Ñ/
+[python:S5754E"<Specify an exception class to catch or reraise the exception(ˆÊÉ·8®Á´©…/
+mpython:S1192C"IDefine a constant instead of duplicating this literal "data.csv" 3 times.(ÔÂ´¶ùÿÿÿÿ8“ƒÆ«…/
+=python:S125m"Remove this commented out code.(ğĞªª8¦ÉñË†/
